@@ -1,18 +1,13 @@
 ## Hi there 👋
+# [@jazmingutierrez](www.linkedin.com/in/g-jazmin-eb-gutierrez-768a502a3)
 
-<!--
-**jazmin22eb/jazmin22eb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://i.pinimg.com/564x/26/79/21/2679218ab031e9bd24f8a805238e7029.jpg)
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/anelmontes?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li><b>🙋‍♀️ Name:  </b> Jazmín Eb Gutiérrez </li>
+<li><b>📍 Location:  </b> Mérida Yucatán 🇲🇽 </li>
 
-https://i.pinimg.com/564x/a1/5f/28/a15f28f72744085e6e9bf1184067812d.jpg
+## Hola, bienvenid@ a mi perfil.:mushroom:
+
+Apasionada por la tecnología y el aprendizaje constante, soy estudiante de ingeniería en sistemas computacionales en constante partición en cursos de STEM para complementar y enriquecer mi formación académica y profesional.
