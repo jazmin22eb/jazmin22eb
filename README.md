@@ -10,4 +10,4 @@
 
 ## Hola, bienvenid@ a mi perfil. 🦋
 
-Apasionada por la tecnología y el aprendizaje constante, soy estudiante de ingeniería en sistemas computacionales en constante partición en cursos de STEM para complementar y enriquecer mi formación académica y profesional.
+Apasionada por la tecnología y el aprendizaje constante, soy egresada de ingeniería en sistemas computacionales en constante partición en cursos de STEM para complementar y enriquecer mi formación académica y profesional.
